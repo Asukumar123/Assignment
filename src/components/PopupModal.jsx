@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CreateAccountModal from "./createAccountModal";
+import CreateAccountModal from "./CreateAccountModal";
 import '../App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGoogle } from '@fortawesome/free-brands-svg-icons';
